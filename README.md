@@ -5,7 +5,9 @@ Given an array *a* of *n* integers and a number, *d*, this program will perform 
 ## Examples
 
 Input:
+
 5 4
+
 12345
 
 Output:
